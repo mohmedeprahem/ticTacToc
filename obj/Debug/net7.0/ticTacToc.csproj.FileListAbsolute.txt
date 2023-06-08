@@ -1,0 +1,15 @@
+F:\Developer\projects\c#\ticTacToc\bin\Debug\net7.0\ticTacToc.exe
+F:\Developer\projects\c#\ticTacToc\bin\Debug\net7.0\ticTacToc.deps.json
+F:\Developer\projects\c#\ticTacToc\bin\Debug\net7.0\ticTacToc.runtimeconfig.json
+F:\Developer\projects\c#\ticTacToc\bin\Debug\net7.0\ticTacToc.dll
+F:\Developer\projects\c#\ticTacToc\bin\Debug\net7.0\ticTacToc.pdb
+F:\Developer\projects\c#\ticTacToc\obj\Debug\net7.0\ticTacToc.csproj.AssemblyReference.cache
+F:\Developer\projects\c#\ticTacToc\obj\Debug\net7.0\ticTacToc.GeneratedMSBuildEditorConfig.editorconfig
+F:\Developer\projects\c#\ticTacToc\obj\Debug\net7.0\ticTacToc.AssemblyInfoInputs.cache
+F:\Developer\projects\c#\ticTacToc\obj\Debug\net7.0\ticTacToc.AssemblyInfo.cs
+F:\Developer\projects\c#\ticTacToc\obj\Debug\net7.0\ticTacToc.csproj.CoreCompileInputs.cache
+F:\Developer\projects\c#\ticTacToc\obj\Debug\net7.0\ticTacToc.dll
+F:\Developer\projects\c#\ticTacToc\obj\Debug\net7.0\refint\ticTacToc.dll
+F:\Developer\projects\c#\ticTacToc\obj\Debug\net7.0\ticTacToc.pdb
+F:\Developer\projects\c#\ticTacToc\obj\Debug\net7.0\ticTacToc.genruntimeconfig.cache
+F:\Developer\projects\c#\ticTacToc\obj\Debug\net7.0\ref\ticTacToc.dll
