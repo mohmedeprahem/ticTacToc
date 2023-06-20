@@ -3,11 +3,11 @@
   public class Method
   {
 
-    private static void DisplalyShape(char[,] elementsGame) {
+    private static void DisplayShape(char[,] elementsGame) {
       for(int i = 0; i < elementsGame.GetLength(0); i++) {
         for(int j = 0; j < elementsGame.GetLength(1); j++) {
           if (j == 2) {
-            Console.WriteLine("{0} \n----------", elementsGame[i, j]);    
+            Console.WriteLine("{0} \n----------", elementsGame[i, j]);
           } else {
             Console.Write("{0} | ", elementsGame[i, j]);
           }
@@ -19,8 +19,8 @@
       bool isWinner = false;
       if ((board[0,0] == board[1,1] && board[1,1] == board[2,2]) || (board[0,2] == board[1,1] && board[1,1] == board[2,0])) {
           return true;
-      } 
-      
+      }
+
       for (int i = 0; i < 3; i++) {
           if ((board[i,0] == board[i,1] && board[i,1] == board[i,2]) || (board[0,i] == board[1,i] && board[1,i] == board[2,i])) {
               return true;
@@ -43,7 +43,7 @@
         int valueAsInt;
         while (counter < 9) {
           // Create ui in console
-          DisplalyShape(elementsGame);
+          DisplayShape(elementsGame);
 
           // Check if there is winner
           isWinner = Checker(elementsGame);
@@ -99,7 +99,7 @@
       } catch (IOException) {
         Console.WriteLine("Not a valid");
       }
-        
+
     }
 
 
